@@ -1,0 +1,29 @@
+td{
+  border:1px black solid;
+  border-spacing:0px;
+  border-collapse: collapse;
+}
+table{
+  float:center;
+  margin:auto;
+  margin-top: 50px;
+  font-size:25px;
+  border:1px black solid;
+}
+.error{
+  font-size: 14px;
+  color:red;
+}
+h1{
+  float:center;
+  text-align: center;
+  margin:auto;
+  margin-top: 20px;
+  font-size:25px;
+}
+p{
+  float:center;
+  text-align: center;
+  margin:auto;
+  font-size:25px;
+}
